@@ -1,0 +1,39 @@
+name: life_milestones
+description: 生涯里程 LifeMilestones — 把人生記錄按時間排序的 Android APP
+publish_to: none
+version: 1.2.0+8
+
+environment:
+  sdk: ">=3.4.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  path_provider: ^2.1.4
+  shared_preferences: ^2.3.2
+  http: ^1.2.2
+  url_launcher: ^6.3.1
+  image_picker: ^1.1.2
+  local_auth: ^2.3.0
+  crypto: ^3.0.3
+  share_plus: ^10.1.4
+
+dev_dependencies:
+  flutter_lints: ^4.0.0
+  flutter_launcher_icons: ^0.14.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/sample.json
+    - google/Code.gs
+
+flutter_launcher_icons:
+  android: true
+  ios: false
+  image_path: assets/icon/icon.png
+  adaptive_icon_background: "#F6F3EC"
+  adaptive_icon_foreground: assets/icon/foreground.png
+  min_sdk_android: 21

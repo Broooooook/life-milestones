@@ -1,0 +1,351 @@
+{
+ "version": 2,
+ "events": [
+  {
+   "id": "sample-01",
+   "start": {
+    "y": 2015,
+    "m": 9,
+    "d": 1
+   },
+   "end": {
+    "y": 2019,
+    "m": 6,
+    "d": 30
+   },
+   "title": "大學入學",
+   "note": "範例資料：點右上角的 ☆ 可以把事件標記到總覽",
+   "category": "家庭人生",
+   "amount": null,
+   "photos": [],
+   "starred": true,
+   "people": [
+    "阿哲"
+   ],
+   "anniversary": false,
+   "inUse": false,
+   "usedUntil": null
+  },
+  {
+   "id": "sample-02",
+   "start": {
+    "y": 2017,
+    "m": 7,
+    "d": null
+   },
+   "end": null,
+   "title": "第一台筆電入手",
+   "note": "大學報告都靠它\n（範例：「已汰換」會自動算出用了多久）",
+   "category": "購物",
+   "amount": 32900,
+   "photos": [],
+   "starred": false,
+   "people": [],
+   "anniversary": false,
+   "inUse": false,
+   "usedUntil": {
+    "y": 2023,
+    "m": 2,
+    "d": 18
+   }
+  },
+  {
+   "id": "sample-03",
+   "start": {
+    "y": 2018,
+    "m": 8,
+    "d": 12
+   },
+   "end": {
+    "y": 2018,
+    "m": 8,
+    "d": 16
+   },
+   "title": "京都自由行",
+   "note": "第一次出國\n• 機票 12,800\n• 住宿 9,600",
+   "category": "旅遊",
+   "amount": 28000,
+   "photos": [],
+   "starred": true,
+   "people": [
+    "阿哲",
+    "小安"
+   ],
+   "anniversary": false,
+   "inUse": false,
+   "usedUntil": null
+  },
+  {
+   "id": "sample-04",
+   "start": {
+    "y": 2019,
+    "m": 7,
+    "d": 15
+   },
+   "end": null,
+   "title": "第一份工作到職",
+   "note": "",
+   "category": "家庭人生",
+   "amount": null,
+   "photos": [],
+   "starred": true,
+   "people": [],
+   "anniversary": false,
+   "inUse": false,
+   "usedUntil": null
+  },
+  {
+   "id": "sample-05",
+   "start": {
+    "y": 2019,
+    "m": null,
+    "d": null
+   },
+   "end": null,
+   "title": "年所得486000元",
+   "note": "範例：日期只打年份＝年度大項，會排在那年最前面",
+   "category": "收入",
+   "amount": 486000,
+   "photos": [],
+   "starred": false,
+   "people": [],
+   "anniversary": false,
+   "inUse": false,
+   "usedUntil": null
+  },
+  {
+   "id": "sample-06",
+   "start": {
+    "y": 2020,
+    "m": 1,
+    "d": null
+   },
+   "end": null,
+   "title": "新冠肺炎疫情開始",
+   "note": "範例：日期打到月份＝月份大項",
+   "category": "時事",
+   "amount": null,
+   "photos": [],
+   "starred": false,
+   "people": [],
+   "anniversary": false,
+   "inUse": false,
+   "usedUntil": null
+  },
+  {
+   "id": "sample-07",
+   "start": {
+    "y": 2020,
+    "m": 9,
+    "d": 20
+   },
+   "end": null,
+   "title": "年度紅利",
+   "note": "",
+   "category": "收入",
+   "amount": 30000,
+   "photos": [],
+   "starred": false,
+   "people": [],
+   "anniversary": false,
+   "inUse": false,
+   "usedUntil": null
+  },
+  {
+   "id": "sample-08",
+   "start": {
+    "y": 2021,
+    "m": 3,
+    "d": 6
+   },
+   "end": null,
+   "title": "機車入手",
+   "note": "里程 0 km 開始",
+   "category": "車輛",
+   "amount": 68000,
+   "photos": [],
+   "starred": false,
+   "people": [],
+   "anniversary": false,
+   "inUse": true,
+   "usedUntil": null
+  },
+  {
+   "id": "sample-09",
+   "start": {
+    "y": 2021,
+    "m": null,
+    "d": null
+   },
+   "end": null,
+   "title": "年所得552000元",
+   "note": "",
+   "category": "收入",
+   "amount": 552000,
+   "photos": [],
+   "starred": false,
+   "people": [],
+   "anniversary": false,
+   "inUse": false,
+   "usedUntil": null
+  },
+  {
+   "id": "sample-10",
+   "start": {
+    "y": 2022,
+    "m": 5,
+    "d": 21
+   },
+   "end": null,
+   "title": "和小安結婚",
+   "note": "在台中的戶外婚禮\n• 宴客 22 桌\n（範例：開啟「每年紀念」，快到時會出現在總覽）",
+   "category": "家庭人生",
+   "amount": null,
+   "photos": [],
+   "starred": true,
+   "people": [
+    "小安"
+   ],
+   "anniversary": true,
+   "inUse": false,
+   "usedUntil": null
+  },
+  {
+   "id": "sample-11",
+   "start": {
+    "y": 2022,
+    "m": 8,
+    "d": 10
+   },
+   "end": null,
+   "title": "調薪1500元",
+   "note": "",
+   "category": "收入",
+   "amount": 1500,
+   "photos": [],
+   "starred": false,
+   "people": [],
+   "anniversary": false,
+   "inUse": false,
+   "usedUntil": null
+  },
+  {
+   "id": "sample-12",
+   "start": {
+    "y": 2023,
+    "m": 2,
+    "d": 18
+   },
+   "end": null,
+   "title": "新筆電入手",
+   "note": "",
+   "category": "購物",
+   "amount": 45900,
+   "photos": [],
+   "starred": false,
+   "people": [],
+   "anniversary": false,
+   "inUse": true,
+   "usedUntil": null
+  },
+  {
+   "id": "sample-13",
+   "start": {
+    "y": 2023,
+    "m": 11,
+    "d": 2
+   },
+   "end": null,
+   "title": "開始牙齒矯正",
+   "note": "預計兩年",
+   "category": "健康",
+   "amount": 72000,
+   "photos": [],
+   "starred": false,
+   "people": [],
+   "anniversary": false,
+   "inUse": false,
+   "usedUntil": null
+  },
+  {
+   "id": "sample-14",
+   "start": {
+    "y": 2024,
+    "m": 4,
+    "d": 13
+   },
+   "end": null,
+   "title": "大學同學婚宴禮金",
+   "note": "",
+   "category": "人情",
+   "amount": 3600,
+   "photos": [],
+   "starred": false,
+   "people": [
+    "阿哲"
+   ],
+   "anniversary": false,
+   "inUse": false,
+   "usedUntil": null
+  },
+  {
+   "id": "sample-15",
+   "start": {
+    "y": 2024,
+    "m": 10,
+    "d": 5
+   },
+   "end": null,
+   "title": "機車更換前後輪胎",
+   "note": "里程 18,450 km",
+   "category": "車輛",
+   "amount": 3200,
+   "photos": [],
+   "starred": false,
+   "people": [],
+   "anniversary": false,
+   "inUse": false,
+   "usedUntil": null
+  },
+  {
+   "id": "sample-16",
+   "start": {
+    "y": 2025,
+    "m": 12,
+    "d": 31
+   },
+   "end": null,
+   "title": "跨年在台北看煙火",
+   "note": "",
+   "category": "旅遊",
+   "amount": null,
+   "photos": [],
+   "starred": false,
+   "people": [
+    "小安"
+   ],
+   "anniversary": false,
+   "inUse": false,
+   "usedUntil": null
+  },
+  {
+   "id": "sample-17",
+   "start": {
+    "y": 2026,
+    "m": 3,
+    "d": 14
+   },
+   "end": null,
+   "title": "搬新家",
+   "note": "範例：長按卡片或點「編輯」可以修改；設定裡可以一鍵清除所有範例",
+   "category": "家庭人生",
+   "amount": null,
+   "photos": [],
+   "starred": true,
+   "people": [],
+   "anniversary": false,
+   "inUse": false,
+   "usedUntil": null
+  }
+ ]
+}
